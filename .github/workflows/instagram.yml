@@ -1,0 +1,40 @@
+# Publica no Instagram os Reels da fila (agenda.json) quando chega o horário — roda nos servidores do GitHub.
+# O PC pode estar desligado. Verifica a cada 10 minutos (o GitHub pode atrasar alguns minutos).
+name: Instagram agendado
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: 'Só testar (não publica nada)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Publicar o que estiver no horário
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste }}
+        run: node .github/scripts/instagram.mjs
+      - name: Salvar resultado na agenda
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A agenda.json fila
+          git diff --cached --quiet || (git commit -m "Instagram: publicações agendadas" && git push)
