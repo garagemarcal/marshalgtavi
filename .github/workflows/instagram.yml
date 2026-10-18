@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: instagram
+  group: fila
   cancel-in-progress: false
 
 jobs:
@@ -37,4 +37,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A agenda.json fila
-          git diff --cached --quiet || (git commit -m "Instagram: publicações agendadas" && git push)
+          git diff --cached --quiet || (git commit -m "Instagram: publicações agendadas" && git pull --rebase && git push)

@@ -2,6 +2,7 @@
 // O vídeo e a capa ficam em fila/ e são servidos pelo GitHub Pages (link público que o Instagram baixa).
 // Depois de publicar, apaga os arquivos da fila e marca o item como publicado.
 import fs from 'node:fs';
+import { cleanFila } from './fila.mjs';
 
 const SITE = 'https://garagemarcal.github.io/marshalgtavi';
 const API = 'https://graph.instagram.com/v23.0';
@@ -48,7 +49,6 @@ for (const item of devidos) {
     const p = await call('POST', `/${me.user_id}/media_publish`, { creation_id: c.id });
     const m = await call('GET', `/${p.id}`, { fields: 'permalink' });
     Object.assign(item, { status: 'publicado', link: m.permalink, publicadoEm: new Date().toISOString() });
-    for (const f of [`fila/${item.id}.mp4`, `fila/${item.id}-capa.png`]) fs.rmSync(f, { force: true });
     console.log(item.id, 'publicado:', m.permalink);
   } catch (e) {
     item.tentativas = (item.tentativas || 0) + 1;
@@ -58,3 +58,4 @@ for (const item of devidos) {
   }
   fs.writeFileSync('agenda.json', JSON.stringify(agenda, null, 2));
 }
+cleanFila();

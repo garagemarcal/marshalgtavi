@@ -1,0 +1,42 @@
+# Envia para o YouTube os Shorts da fila (youtube.json) e aplica as capas — roda nos servidores do GitHub.
+# Usado quando o envio direto do PC não deu (limite diário do YouTube, limite de capas) ou para agendar sem o PC.
+name: YouTube agendado
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: 'Só testar a conexão (não envia nada)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fila
+  cancel-in-progress: false
+
+jobs:
+  youtube:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Enviar vídeos e capas pendentes
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste }}
+        run: node .github/scripts/youtube.mjs
+      - name: Salvar resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A youtube.json fila
+          git diff --cached --quiet || (git commit -m "YouTube: fila processada" && git pull --rebase && git push)
