@@ -24,5 +24,65 @@
       "monte kalaga"
     ],
     "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "001-faltam-32-dias",
+    "videoId": "u3FHMUyPJ8c",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "002-miami-virou-vice-city",
+    "videoId": "v-Vw-1pNAIw",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "003-raul-bautista",
+    "videoId": "hwTBxuVcOGI",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "004-brian-heder",
+    "videoId": "Zx5WTRfcFPo",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "005-real-dimez",
+    "videoId": "GQqqoLvn1q8",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "006-cuidado-golpe",
+    "videoId": "5XhzA4BeDj4",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "007-album-gta6",
+    "videoId": "B-Sk8XgtcVQ",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "008-lucia-caminos",
+    "videoId": "aXGaOb_dKdU",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "009-jason-duval",
+    "videoId": "F2jUlpLLVq0",
+    "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "010-radios-gta6",
+    "videoId": "uq9QNnbiBRY",
+    "status": "pendente"
   }
 ]
