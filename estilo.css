@@ -1,0 +1,11 @@
+body{margin:0;min-height:100vh;font-family:Arial,sans-serif;color:#fff;
+  background:linear-gradient(160deg,#3548dc,#8b3fd8 45%,#e94aa8 80%,#ff5d9e) fixed}
+main{max-width:760px;margin:0 auto;padding:48px 24px;text-align:center}
+main.texto{text-align:left;background:rgba(20,0,45,.55);border-radius:18px;margin:40px auto;line-height:1.6}
+.logo{width:220px;filter:drop-shadow(0 8px 20px rgba(0,0,0,.4))}
+h1{font-family:Impact,'Arial Black',sans-serif;letter-spacing:1px;font-weight:400;font-size:42px;margin:16px 0}
+h2{font-size:20px;margin-top:28px}
+a{color:#ffe3f4}
+.redes{font-size:18px}
+nav{margin:24px 0}
+.aviso{font-size:13px;opacity:.8;margin-top:40px}
