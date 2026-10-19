@@ -102,5 +102,11 @@
     "ultimoErro": "The user has uploaded too many thumbnails recently. Please try the request again later.",
     "tentativas": 2,
     "depoisDe": "2026-10-20T00:16:27.747Z"
+  },
+  {
+    "tipo": "capa",
+    "id": "012-faltam-30-dias-preco",
+    "videoId": "cWM1JIChRR0",
+    "status": "pendente"
   }
 ]
