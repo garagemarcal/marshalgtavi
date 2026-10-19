@@ -108,5 +108,11 @@
     "id": "012-faltam-30-dias-preco",
     "videoId": "cWM1JIChRR0",
     "status": "pendente"
+  },
+  {
+    "tipo": "capa",
+    "id": "013-bonus-reserva",
+    "videoId": "T1EQNoakpB4",
+    "status": "pendente"
   }
 ]
