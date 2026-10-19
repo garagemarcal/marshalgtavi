@@ -23,69 +23,84 @@
       "ambrosia",
       "monte kalaga"
     ],
-    "status": "pendente",
+    "status": "enviado",
     "ultimoErro": "The user has exceeded the number of videos they may upload.",
     "tentativas": 4,
-    "depoisDe": "2026-10-19T13:10:48.936Z"
+    "depoisDe": "2026-10-19T13:10:48.936Z",
+    "videoId": "gleC21Oo-CU",
+    "capa": "ok",
+    "feitoEm": "2026-10-19T17:43:36.981Z"
   },
   {
     "tipo": "capa",
     "id": "001-faltam-32-dias",
     "videoId": "u3FHMUyPJ8c",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:43:39.995Z"
   },
   {
     "tipo": "capa",
     "id": "002-miami-virou-vice-city",
     "videoId": "v-Vw-1pNAIw",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:43:45.923Z"
   },
   {
     "tipo": "capa",
     "id": "003-raul-bautista",
     "videoId": "hwTBxuVcOGI",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:43:48.139Z"
   },
   {
     "tipo": "capa",
     "id": "004-brian-heder",
     "videoId": "Zx5WTRfcFPo",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:43:53.576Z"
   },
   {
     "tipo": "capa",
     "id": "005-real-dimez",
     "videoId": "GQqqoLvn1q8",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:43:57.139Z"
   },
   {
     "tipo": "capa",
     "id": "006-cuidado-golpe",
     "videoId": "5XhzA4BeDj4",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:44:00.619Z"
   },
   {
     "tipo": "capa",
     "id": "007-album-gta6",
     "videoId": "B-Sk8XgtcVQ",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:44:03.140Z"
   },
   {
     "tipo": "capa",
     "id": "008-lucia-caminos",
     "videoId": "aXGaOb_dKdU",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:44:05.429Z"
   },
   {
     "tipo": "capa",
     "id": "009-jason-duval",
     "videoId": "F2jUlpLLVq0",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-19T17:44:08.338Z"
   },
   {
     "tipo": "capa",
     "id": "010-radios-gta6",
     "videoId": "uq9QNnbiBRY",
-    "status": "pendente"
+    "status": "pendente",
+    "ultimoErro": "The user has uploaded too many thumbnails recently. Please try the request again later.",
+    "tentativas": 1,
+    "depoisDe": "2026-10-19T19:44:08.671Z"
   }
 ]
