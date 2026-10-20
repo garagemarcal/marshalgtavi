@@ -98,39 +98,45 @@
     "tipo": "capa",
     "id": "010-radios-gta6",
     "videoId": "uq9QNnbiBRY",
-    "status": "pendente",
+    "status": "feito",
     "ultimoErro": "The user has uploaded too many thumbnails recently. Please try the request again later.",
     "tentativas": 4,
-    "depoisDe": "2026-10-20T08:30:45.564Z"
+    "depoisDe": "2026-10-20T08:30:45.564Z",
+    "feitoEm": "2026-10-20T12:01:23.770Z"
   },
   {
     "tipo": "capa",
     "id": "012-faltam-30-dias-preco",
     "videoId": "cWM1JIChRR0",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-20T12:01:26.959Z"
   },
   {
     "tipo": "capa",
     "id": "013-bonus-reserva",
     "videoId": "T1EQNoakpB4",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-20T12:01:31.070Z"
   },
   {
     "tipo": "capa",
     "id": "014-rede-social-gta6",
     "videoId": "Rcb93cnfcKw",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-20T12:01:36.931Z"
   },
   {
     "tipo": "capa",
     "id": "015-detalhes-trailer-lancamento",
     "videoId": "c_FiP7cKcFA",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-20T12:01:39.923Z"
   },
   {
     "tipo": "capa",
     "id": "016-vazamentos-pararam",
     "videoId": "X4ZO1riUtmE",
-    "status": "pendente"
+    "status": "feito",
+    "feitoEm": "2026-10-20T12:01:46.430Z"
   }
 ]
