@@ -1,35 +1,5 @@
 [
   {
-    "id": "045-detalhes-trailer-1",
-    "quando": "2026-10-26T21:00:00.000Z",
-    "manterAte": "2026-10-27T00:00:00.000Z"
-  },
-  {
-    "id": "046-coadjuvantes-mais-doidos",
-    "quando": "2026-10-26T23:00:00.000Z",
-    "manterAte": "2026-10-27T02:00:00.000Z"
-  },
-  {
-    "id": "032-faltam-26-dias-colecionador",
-    "quando": "2026-10-27T13:00:00.000Z",
-    "manterAte": "2026-10-27T16:00:00.000Z"
-  },
-  {
-    "id": "033-macca-the-gator",
-    "quando": "2026-10-27T15:00:00.000Z",
-    "manterAte": "2026-10-27T18:00:00.000Z"
-  },
-  {
-    "id": "034-classificacao-17",
-    "quando": "2026-10-27T17:00:00.000Z",
-    "manterAte": "2026-10-27T20:00:00.000Z"
-  },
-  {
-    "id": "035-historia-em-30s",
-    "quando": "2026-10-27T19:00:00.000Z",
-    "manterAte": "2026-10-27T22:00:00.000Z"
-  },
-  {
     "id": "036-leonida-x-florida",
     "quando": "2026-10-27T21:00:00.000Z",
     "manterAte": "2026-10-28T00:00:00.000Z"
@@ -68,5 +38,10 @@
     "id": "052-espaco-ps5",
     "quando": "2026-10-28T23:00:00.000Z",
     "manterAte": "2026-10-29T02:00:00.000Z"
+  },
+  {
+    "id": "053-faltam-21-dias-trilha-original",
+    "quando": "2026-10-29T13:00:00.000Z",
+    "manterAte": "2026-10-29T16:00:00.000Z"
   }
 ]
