@@ -48,5 +48,10 @@
     "id": "066-policia-com-cachorro",
     "quando": "2026-10-31T15:00:00.000Z",
     "manterAte": "2026-10-31T18:00:00.000Z"
+  },
+  {
+    "id": "067-mapa-do-tamanho-de-3-jogos",
+    "quando": "2026-10-31T17:00:00.000Z",
+    "manterAte": "2026-10-31T20:00:00.000Z"
   }
 ]
