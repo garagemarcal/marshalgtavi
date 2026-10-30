@@ -1,35 +1,5 @@
 [
   {
-    "id": "051-jogos-fugindo-gta6",
-    "quando": "2026-10-28T21:00:00.000Z",
-    "manterAte": "2026-10-29T00:00:00.000Z"
-  },
-  {
-    "id": "052-espaco-ps5",
-    "quando": "2026-10-28T23:00:00.000Z",
-    "manterAte": "2026-10-29T02:00:00.000Z"
-  },
-  {
-    "id": "053-faltam-21-dias-trilha-original",
-    "quando": "2026-10-29T13:00:00.000Z",
-    "manterAte": "2026-10-29T16:00:00.000Z"
-  },
-  {
-    "id": "054-pc-so-em-2027",
-    "quando": "2026-10-29T15:00:00.000Z",
-    "manterAte": "2026-10-29T18:00:00.000Z"
-  },
-  {
-    "id": "055-policia-de-leonida",
-    "quando": "2026-10-29T17:00:00.000Z",
-    "manterAte": "2026-10-29T20:00:00.000Z"
-  },
-  {
-    "id": "056-13-anos-de-espera",
-    "quando": "2026-10-29T19:00:00.000Z",
-    "manterAte": "2026-10-29T22:00:00.000Z"
-  },
-  {
     "id": "057-primeira-coisa-no-gta6",
     "quando": "2026-10-29T21:00:00.000Z",
     "manterAte": "2026-10-30T00:00:00.000Z"
@@ -68,5 +38,10 @@
     "id": "064-94-por-cento-vao-comprar",
     "quando": "2026-10-30T23:00:00.000Z",
     "manterAte": "2026-10-31T02:00:00.000Z"
+  },
+  {
+    "id": "065-faltam-19-dias-imagens-novas",
+    "quando": "2026-10-31T13:00:00.000Z",
+    "manterAte": "2026-10-31T16:00:00.000Z"
   }
 ]
