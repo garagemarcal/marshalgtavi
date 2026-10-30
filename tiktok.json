@@ -58,5 +58,10 @@
     "id": "068-gasolina-e-apps",
     "quando": "2026-10-31T19:00:00.000Z",
     "manterAte": "2026-10-31T22:00:00.000Z"
+  },
+  {
+    "id": "069-perfil-criminoso",
+    "quando": "2026-10-31T21:00:00.000Z",
+    "manterAte": "2026-11-01T00:00:00.000Z"
   }
 ]
