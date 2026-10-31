@@ -63,5 +63,10 @@
     "id": "074-roubos-entre-missoes",
     "quando": "2026-11-01T19:00:00.000Z",
     "manterAte": "2026-11-01T22:00:00.000Z"
+  },
+  {
+    "id": "075-jason-e-lucia-casal",
+    "quando": "2026-11-01T21:00:00.000Z",
+    "manterAte": "2026-11-02T00:00:00.000Z"
   }
 ]
