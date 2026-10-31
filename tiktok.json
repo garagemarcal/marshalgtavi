@@ -48,5 +48,10 @@
     "id": "071-faltam-18-dias-clima",
     "quando": "2026-11-01T13:00:00.000Z",
     "manterAte": "2026-11-01T16:00:00.000Z"
+  },
+  {
+    "id": "072-sacola-burger-shot-501",
+    "quando": "2026-11-01T15:00:00.000Z",
+    "manterAte": "2026-11-01T18:00:00.000Z"
   }
 ]
