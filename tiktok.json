@@ -48,5 +48,10 @@
     "id": "077-faltam-17-dias-internet",
     "quando": "2026-11-02T13:00:00.000Z",
     "manterAte": "2026-11-02T16:00:00.000Z"
+  },
+  {
+    "id": "078-votacao-sindicato-rockstar",
+    "quando": "2026-11-02T15:00:00.000Z",
+    "manterAte": "2026-11-02T18:00:00.000Z"
   }
 ]
