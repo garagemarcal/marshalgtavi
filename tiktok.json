@@ -48,5 +48,10 @@
     "id": "090-faltam-15-dias-pre-load-dia-10",
     "quando": "2026-11-04T13:00:00.000Z",
     "manterAte": "2026-11-04T16:00:00.000Z"
+  },
+  {
+    "id": "091-xbox-libera-dia-9-as-21h",
+    "quando": "2026-11-04T15:00:00.000Z",
+    "manterAte": "2026-11-04T18:00:00.000Z"
   }
 ]
