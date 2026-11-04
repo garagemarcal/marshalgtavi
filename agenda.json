@@ -653,19 +653,25 @@
     "id": "090-faltam-15-dias-pre-load-dia-10",
     "quando": "2026-11-04T13:00:00.000Z",
     "legenda": "FALTAM 15 DIAS e a Rockstar ADIANTOU o pré-download do GTA 6 pro dia 10/11! 📥🔥 Já tá com espaço livre? 👇\n\nSegue @marshalgtavi pra contagem regressiva todo dia!\n\n#gta6 #gtavi #gta6brasil #rockstargames #vicecity #grandtheftauto6 #fyp #viral",
-    "status": "agendado"
+    "status": "agendado",
+    "tentativas": 1,
+    "ultimoErro": "processamento falhou: ERROR"
   },
   {
     "id": "091-xbox-libera-dia-9-as-21h",
     "quando": "2026-11-04T15:00:00.000Z",
     "legenda": "Jogador de Xbox no Brasil: o pré-download do GTA 6 começa DIA 9 às 21h! ⏰ PS5 é meia-noite do dia 10. 👇\n\nSegue @marshalgtavi pra contagem regressiva todo dia!\n\n#gta6 #gtavi #gta6brasil #rockstargames #vicecity #grandtheftauto6 #fyp #viral",
-    "status": "agendado"
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/DfVC76Ohnme/",
+    "publicadoEm": "2026-11-04T17:58:07.407Z"
   },
   {
     "id": "092-212-gb-confirmado",
     "quando": "2026-11-04T17:00:00.000Z",
     "legenda": "CONFIRMADO: GTA 6 tem até 212 GB! 💾 Já liberou espaço no console? 👇\n\nSegue @marshalgtavi pra contagem regressiva todo dia!\n\n#gta6 #gtavi #gta6brasil #rockstargames #vicecity #grandtheftauto6 #fyp #viral",
-    "status": "agendado"
+    "status": "publicado",
+    "link": "https://www.instagram.com/reel/DfVDAcohroD/",
+    "publicadoEm": "2026-11-04T17:59:02.199Z"
   },
   {
     "id": "093-poster-e-mapa-gratis",
