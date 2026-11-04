@@ -48,5 +48,10 @@
     "id": "096-faltam-14-dias-5-pra-baixar",
     "quando": "2026-11-05T13:00:00.000Z",
     "manterAte": "2026-11-05T16:00:00.000Z"
+  },
+  {
+    "id": "097-propaganda-no-brasil",
+    "quando": "2026-11-05T15:00:00.000Z",
+    "manterAte": "2026-11-05T18:00:00.000Z"
   }
 ]
