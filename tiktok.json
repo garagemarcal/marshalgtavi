@@ -1,35 +1,5 @@
 [
   {
-    "id": "081-edge-em-30-segundos",
-    "quando": "2026-11-02T21:00:00.000Z",
-    "manterAte": "2026-11-03T00:00:00.000Z"
-  },
-  {
-    "id": "082-calendario-ate-o-dia-19",
-    "quando": "2026-11-02T23:00:00.000Z",
-    "manterAte": "2026-11-03T02:00:00.000Z"
-  },
-  {
-    "id": "083-faltam-16-dias-27-minutos",
-    "quando": "2026-11-03T13:00:00.000Z",
-    "manterAte": "2026-11-03T16:00:00.000Z"
-  },
-  {
-    "id": "084-missao-do-boobie",
-    "quando": "2026-11-03T15:00:00.000Z",
-    "manterAte": "2026-11-03T18:00:00.000Z"
-  },
-  {
-    "id": "085-lucia-e-as-lantejoulas",
-    "quando": "2026-11-03T17:00:00.000Z",
-    "manterAte": "2026-11-03T20:00:00.000Z"
-  },
-  {
-    "id": "086-historia-do-parque",
-    "quando": "2026-11-03T19:00:00.000Z",
-    "manterAte": "2026-11-03T22:00:00.000Z"
-  },
-  {
     "id": "087-streamer-no-porta-malas",
     "quando": "2026-11-03T21:00:00.000Z",
     "manterAte": "2026-11-04T00:00:00.000Z"
@@ -73,5 +43,10 @@
     "id": "095-festa-invadida",
     "quando": "2026-11-04T23:00:00.000Z",
     "manterAte": "2026-11-05T02:00:00.000Z"
+  },
+  {
+    "id": "096-faltam-14-dias-5-pra-baixar",
+    "quando": "2026-11-05T13:00:00.000Z",
+    "manterAte": "2026-11-05T16:00:00.000Z"
   }
 ]
