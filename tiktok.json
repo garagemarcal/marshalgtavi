@@ -68,5 +68,10 @@
     "id": "100-pantano-de-leonida",
     "quando": "2026-11-05T21:00:00.000Z",
     "manterAte": "2026-11-06T00:00:00.000Z"
+  },
+  {
+    "id": "101-fuja-dos-spoilers",
+    "quando": "2026-11-05T23:00:00.000Z",
+    "manterAte": "2026-11-06T02:00:00.000Z"
   }
 ]
