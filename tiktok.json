@@ -1,30 +1,5 @@
 [
   {
-    "id": "095-festa-invadida",
-    "quando": "2026-11-04T23:00:00.000Z",
-    "manterAte": "2026-11-05T02:00:00.000Z"
-  },
-  {
-    "id": "096-faltam-14-dias-5-pra-baixar",
-    "quando": "2026-11-05T13:00:00.000Z",
-    "manterAte": "2026-11-05T16:00:00.000Z"
-  },
-  {
-    "id": "097-propaganda-no-brasil",
-    "quando": "2026-11-05T15:00:00.000Z",
-    "manterAte": "2026-11-05T18:00:00.000Z"
-  },
-  {
-    "id": "098-tenis-travis-scott",
-    "quando": "2026-11-05T17:00:00.000Z",
-    "manterAte": "2026-11-05T20:00:00.000Z"
-  },
-  {
-    "id": "099-atualiza-o-ps5",
-    "quando": "2026-11-05T19:00:00.000Z",
-    "manterAte": "2026-11-05T22:00:00.000Z"
-  },
-  {
     "id": "100-pantano-de-leonida",
     "quando": "2026-11-05T21:00:00.000Z",
     "manterAte": "2026-11-06T00:00:00.000Z"
@@ -73,5 +48,10 @@
     "id": "109-quem-sao-esses-caras",
     "quando": "2026-11-06T23:30:00.000Z",
     "manterAte": "2026-11-07T02:30:00.000Z"
+  },
+  {
+    "id": "110-faltam-12-dias-3-pra-baixar",
+    "quando": "2026-11-07T13:00:00.000Z",
+    "manterAte": "2026-11-07T16:00:00.000Z"
   }
 ]
