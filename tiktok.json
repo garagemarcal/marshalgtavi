@@ -43,5 +43,10 @@
     "id": "118-faltam-11-dias-xbox-amanha",
     "quando": "2026-11-08T12:36:00.000Z",
     "manterAte": "2026-11-08T15:36:00.000Z"
+  },
+  {
+    "id": "119-que-horas-libera-no-brasil",
+    "quando": "2026-11-08T14:00:00.000Z",
+    "manterAte": "2026-11-08T17:00:00.000Z"
   }
 ]
