@@ -48,5 +48,10 @@
     "id": "119-que-horas-libera-no-brasil",
     "quando": "2026-11-08T14:00:00.000Z",
     "manterAte": "2026-11-08T17:00:00.000Z"
+  },
+  {
+    "id": "120-operadora-internet-gratis",
+    "quando": "2026-11-08T16:00:00.000Z",
+    "manterAte": "2026-11-08T19:00:00.000Z"
   }
 ]
