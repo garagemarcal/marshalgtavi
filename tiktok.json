@@ -53,5 +53,10 @@
     "id": "132-cheetah-de-1-milhao",
     "quando": "2026-11-10T17:00:00.000Z",
     "manterAte": "2026-11-10T20:00:00.000Z"
+  },
+  {
+    "id": "133-online-nos-arquivos",
+    "quando": "2026-11-10T19:00:00.000Z",
+    "manterAte": "2026-11-10T22:00:00.000Z"
   }
 ]
