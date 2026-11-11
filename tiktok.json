@@ -1,30 +1,5 @@
 [
   {
-    "id": "129-primeira-coisa-no-gta-6",
-    "quando": "2026-11-09T23:00:00.000Z",
-    "manterAte": "2026-11-10T02:00:00.000Z"
-  },
-  {
-    "id": "130-faltam-9-dias-ja-baixando",
-    "quando": "2026-11-10T13:00:00.000Z",
-    "manterAte": "2026-11-10T16:00:00.000Z"
-  },
-  {
-    "id": "131-vazou-223-gb-firmware",
-    "quando": "2026-11-10T15:00:00.000Z",
-    "manterAte": "2026-11-10T18:00:00.000Z"
-  },
-  {
-    "id": "132-cheetah-de-1-milhao",
-    "quando": "2026-11-10T17:00:00.000Z",
-    "manterAte": "2026-11-10T20:00:00.000Z"
-  },
-  {
-    "id": "133-online-nos-arquivos",
-    "quando": "2026-11-10T19:00:00.000Z",
-    "manterAte": "2026-11-10T22:00:00.000Z"
-  },
-  {
     "id": "134-censura-australia",
     "quando": "2026-11-10T21:00:00.000Z",
     "manterAte": "2026-11-11T00:00:00.000Z"
@@ -63,5 +38,10 @@
     "id": "141-melhor-cena-do-trailer",
     "quando": "2026-11-11T23:00:00.000Z",
     "manterAte": "2026-11-12T02:00:00.000Z"
+  },
+  {
+    "id": "142-faltam-7-dias-parece-real",
+    "quando": "2026-11-12T13:00:00.000Z",
+    "manterAte": "2026-11-12T16:00:00.000Z"
   }
 ]
