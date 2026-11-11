@@ -48,5 +48,10 @@
     "id": "143-pre-venda-1-bilhao",
     "quando": "2026-11-12T14:30:00.000Z",
     "manterAte": "2026-11-12T17:30:00.000Z"
+  },
+  {
+    "id": "144-rockstar-confirma-30-fps",
+    "quando": "2026-11-12T16:00:00.000Z",
+    "manterAte": "2026-11-12T19:00:00.000Z"
   }
 ]
