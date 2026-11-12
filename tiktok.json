@@ -83,5 +83,10 @@
     "id": "156-escolhe-um-carros",
     "quando": "2026-11-13T22:00:00.000Z",
     "manterAte": "2026-11-14T01:00:00.000Z"
+  },
+  {
+    "id": "157-quantas-copias-primeira-semana",
+    "quando": "2026-11-13T23:30:00.000Z",
+    "manterAte": "2026-11-14T02:30:00.000Z"
   }
 ]
