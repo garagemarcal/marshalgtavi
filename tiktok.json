@@ -68,5 +68,10 @@
     "id": "160-comboio-supercarros",
     "quando": "2026-11-14T16:00:00.000Z",
     "manterAte": "2026-11-14T19:00:00.000Z"
+  },
+  {
+    "id": "161-6-personagens-secundarios",
+    "quando": "2026-11-14T17:30:00.000Z",
+    "manterAte": "2026-11-14T20:30:00.000Z"
   }
 ]
