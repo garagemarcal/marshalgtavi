@@ -88,5 +88,10 @@
     "id": "164-escolhe-um-role",
     "quando": "2026-11-14T22:00:00.000Z",
     "manterAte": "2026-11-15T01:00:00.000Z"
+  },
+  {
+    "id": "165-o-que-fazer-a-meia-noite",
+    "quando": "2026-11-14T23:30:00.000Z",
+    "manterAte": "2026-11-15T02:30:00.000Z"
   }
 ]
