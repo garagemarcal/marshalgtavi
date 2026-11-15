@@ -1,30 +1,5 @@
 [
   {
-    "id": "158-faltam-5-dias-atualizacao",
-    "quando": "2026-11-14T13:00:00.000Z",
-    "manterAte": "2026-11-14T16:00:00.000Z"
-  },
-  {
-    "id": "159-trailer-versao-brasileira",
-    "quando": "2026-11-14T14:30:00.000Z",
-    "manterAte": "2026-11-14T17:30:00.000Z"
-  },
-  {
-    "id": "160-comboio-supercarros",
-    "quando": "2026-11-14T16:00:00.000Z",
-    "manterAte": "2026-11-14T19:00:00.000Z"
-  },
-  {
-    "id": "161-6-personagens-secundarios",
-    "quando": "2026-11-14T17:30:00.000Z",
-    "manterAte": "2026-11-14T20:30:00.000Z"
-  },
-  {
-    "id": "162-5-curiosidades",
-    "quando": "2026-11-14T19:00:00.000Z",
-    "manterAte": "2026-11-14T22:00:00.000Z"
-  },
-  {
     "id": "163-coisas-pra-fazer-fora-da-missao",
     "quando": "2026-11-14T20:30:00.000Z",
     "manterAte": "2026-11-14T23:30:00.000Z"
@@ -73,5 +48,10 @@
     "id": "172-quiz-gta-6-parte-2",
     "quando": "2026-11-15T22:30:00.000Z",
     "manterAte": "2026-11-16T01:30:00.000Z"
+  },
+  {
+    "id": "173-faltam-3-dias-duracao",
+    "quando": "2026-11-16T15:00:00.000Z",
+    "manterAte": "2026-11-16T18:00:00.000Z"
   }
 ]
