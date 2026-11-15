@@ -53,5 +53,10 @@
     "id": "173-faltam-3-dias-duracao",
     "quando": "2026-11-16T15:00:00.000Z",
     "manterAte": "2026-11-16T18:00:00.000Z"
+  },
+  {
+    "id": "174-desenho-macca-and-friends",
+    "quando": "2026-11-16T16:30:00.000Z",
+    "manterAte": "2026-11-16T19:30:00.000Z"
   }
 ]
