@@ -1,45 +1,5 @@
 [
   {
-    "id": "163-coisas-pra-fazer-fora-da-missao",
-    "quando": "2026-11-14T20:30:00.000Z",
-    "manterAte": "2026-11-14T23:30:00.000Z"
-  },
-  {
-    "id": "164-escolhe-um-role",
-    "quando": "2026-11-14T22:00:00.000Z",
-    "manterAte": "2026-11-15T01:00:00.000Z"
-  },
-  {
-    "id": "165-o-que-fazer-a-meia-noite",
-    "quando": "2026-11-14T23:30:00.000Z",
-    "manterAte": "2026-11-15T02:30:00.000Z"
-  },
-  {
-    "id": "166-faltam-4-dias-mapa-vazou",
-    "quando": "2026-11-15T13:00:00.000Z",
-    "manterAte": "2026-11-15T16:00:00.000Z"
-  },
-  {
-    "id": "167-album-sai-dia-19",
-    "quando": "2026-11-15T15:00:00.000Z",
-    "manterAte": "2026-11-15T18:00:00.000Z"
-  },
-  {
-    "id": "168-cuidado-golpe-gta-6",
-    "quando": "2026-11-15T16:30:00.000Z",
-    "manterAte": "2026-11-15T19:30:00.000Z"
-  },
-  {
-    "id": "169-ps5-alugado-com-gta-6",
-    "quando": "2026-11-15T18:00:00.000Z",
-    "manterAte": "2026-11-15T21:00:00.000Z"
-  },
-  {
-    "id": "170-guia-do-dia-19",
-    "quando": "2026-11-15T19:30:00.000Z",
-    "manterAte": "2026-11-15T22:30:00.000Z"
-  },
-  {
     "id": "171-escolhe-um-personagens",
     "quando": "2026-11-15T21:00:00.000Z",
     "manterAte": "2026-11-16T00:00:00.000Z"
@@ -83,5 +43,10 @@
     "id": "179-vai-faltar-no-trabalho",
     "quando": "2026-11-17T00:00:00.000Z",
     "manterAte": "2026-11-17T03:00:00.000Z"
+  },
+  {
+    "id": "180-faltam-2-dias-clima",
+    "quando": "2026-11-17T15:00:00.000Z",
+    "manterAte": "2026-11-17T18:00:00.000Z"
   }
 ]
