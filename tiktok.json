@@ -1,40 +1,5 @@
 [
   {
-    "id": "178-gta-fora-dos-eua",
-    "quando": "2026-11-16T22:30:00.000Z",
-    "manterAte": "2026-11-17T01:30:00.000Z"
-  },
-  {
-    "id": "179-vai-faltar-no-trabalho",
-    "quando": "2026-11-17T00:00:00.000Z",
-    "manterAte": "2026-11-17T03:00:00.000Z"
-  },
-  {
-    "id": "180-faltam-2-dias-clima",
-    "quando": "2026-11-17T15:00:00.000Z",
-    "manterAte": "2026-11-17T18:00:00.000Z"
-  },
-  {
-    "id": "181-hacker-vazamento-culpado",
-    "quando": "2026-11-17T16:30:00.000Z",
-    "manterAte": "2026-11-17T19:30:00.000Z"
-  },
-  {
-    "id": "182-nba-2k27-vice-city",
-    "quando": "2026-11-17T18:00:00.000Z",
-    "manterAte": "2026-11-17T21:00:00.000Z"
-  },
-  {
-    "id": "183-segunda-atualizacao",
-    "quando": "2026-11-17T19:30:00.000Z",
-    "manterAte": "2026-11-17T22:30:00.000Z"
-  },
-  {
-    "id": "184-tema-vice-city-discord",
-    "quando": "2026-11-17T21:00:00.000Z",
-    "manterAte": "2026-11-18T00:00:00.000Z"
-  },
-  {
     "id": "185-2-bilhoes-recorde-internet",
     "quando": "2026-11-17T22:30:00.000Z",
     "manterAte": "2026-11-18T01:30:00.000Z"
@@ -73,5 +38,10 @@
     "id": "193-faltam-3-horas-checklist",
     "quando": "2026-11-19T00:00:00.000Z",
     "manterAte": "2026-11-19T03:00:00.000Z"
+  },
+  {
+    "id": "194-lancou-nota-99",
+    "quando": "2026-11-19T03:00:00.000Z",
+    "manterAte": "2026-11-19T06:00:00.000Z"
   }
 ]
