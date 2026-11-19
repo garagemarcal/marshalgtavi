@@ -68,5 +68,10 @@
     "id": "199-sepultura-radios",
     "quando": "2026-11-19T21:00:00.000Z",
     "manterAte": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "200-recado-sam-houser",
+    "quando": "2026-11-19T22:30:00.000Z",
+    "manterAte": "2026-11-20T01:30:00.000Z"
   }
 ]
